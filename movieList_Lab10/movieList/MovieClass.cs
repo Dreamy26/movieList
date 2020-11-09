@@ -1,10 +1,29 @@
 ﻿using System;
 namespace movieList
 {
-    public class Movie
+    internal class Movie
     {
-        public Movie()
+        private string Title;
+        private string Category;
+       
+        public Movie(string title, string category)
         {
+            Title = title;
+            Category = category;
+
         }
+
+        public string GetTitle()
+        {
+            return Title;
+        }
+
+        public string GetCategory()
+        {
+            return Category;
+        }
+
     }
 }
+
+

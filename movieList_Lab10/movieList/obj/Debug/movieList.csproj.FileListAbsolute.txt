@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/bin/Debug/movieList.exe
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/bin/Debug/movieList.pdb
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/obj/Debug/movieList.csprojAssemblyReference.cache
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/obj/Debug/movieList.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/obj/Debug/movieList.exe
+/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/movieList/obj/Debug/movieList.pdb
