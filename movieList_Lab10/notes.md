@@ -1,45 +1,37 @@
-﻿# Lab3 Decision Maker
+﻿# Lab10 Movie List
 
 ## Notes
 
-## Task: Use conditional statements to get odd or even through a range of numbers
+## Task: List movies by category
 
-## Variables
-
-- userName - string - input from user
-
+## What will the aplication do?
+- The application stores a list of 10 movies and displays them by category.
+- The user can enter any of the following categories to display the films in the list that
+match the category: animated, drama, horror, scif
+- After the list is displayed, the user is asked if he or she wants to continue. If no, the
+program ends.
 
 ## Classes
 
 ## User steps
-1. User sees "What is your name? (Type name and   press enter)"
-2. User inputs string "userName"
-3. User sees "Hi {userName}, please enter an interger between 1 & 100."
-4. User enters userNumber
-5. If between 1 & 100, user sees the output based on the conditions:
-    -- If less than 1 or > 100 - start user steps over again 
-    -- If odd print number & "Odd"
-    -- If even & 2 through 25 print “Even and less than or equal to 25"
-    -- If even & 26 through 60 print "Even"
-    -- If even & > 60 print number and "odd"
-6. User sees "Do you want program to end? (y/n)"
-7. User inputs (y/n)
-8. If 'n' run program again
-9. If 'y' user sees "Bye Boo!"
+1. User sees a list of 10 movies displayed by category.
+2. User inputs one of the following categories: animated, drama, horror, scifi
+3. User sees "Would you like to continue? If no, the program ends."
 
 
 ## Requirements
 
-1. Prompt user to enter an integer
-2. Use if/else statements
-3. If odd print number & "Odd"
-4. If even & 2 through 25 print “Even and less than or equal to 25"
-5. If even & 26 through 60 print "Even"
-6. If even & > 60 print number and "odd"
-7. Include parameters to end program officially
-8. Personalize application (ex. name)
-9. Check user input is between 1 & 100
-10. Answer lab summary on GC LMS 
+1. Prompt user to enter a movie by type of movie
+2. Use a list
+3. Use two private fields: title and category
+4. Use a constructor that accepts: Title & Category as parameters
+5. Validate input (Dont accept blanks for questions)
+6. Answer Lab Summary when submitting to LMS
+
+## Extended Exercises:
+- Standardize the category codes by displaying a menu of categories and
+having the user select the category by number rather than entering the name.
+- Display the movies for the selected category in alphabetical order.
 
 ## CSharp SoSharp
 

@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{7C9DBBEC-1786-4BF7-834A-15879E37D06B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="notes.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="movieList/Movie.cs">
     <Files>
-      <File FileName="movieList/Program.cs" Line="13" Column="1" />
-      <File FileName="notes.md" Line="1" Column="1" />
+      <File FileName="movieList/Program.cs" Line="12" Column="21" />
+      <File FileName="notes.md" Line="31" Column="2" />
+      <File FileName="movieList/Movie.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="movieList_Lab10" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/dreamy/Projects/grandCircus_New/11_november/movieList/movieList_Lab10/notes.md" selected="True" />
+            <Node name="movieList" expanded="True">
+              <Node name="Movie.cs" selected="True" />
             </Node>
-            <Node name="movieList" expanded="True" />
           </Node>
         </State>
       </Pad>
