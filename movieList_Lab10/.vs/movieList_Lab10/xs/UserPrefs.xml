@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{7C9DBBEC-1786-4BF7-834A-15879E37D06B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="movieList/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="movieList/Properties/test.cs">
     <Files>
-      <File FileName="movieList/Program.cs" Line="14" Column="38" />
-      <File FileName="movieList/Movie.cs" Line="13" Column="25" />
-      <File FileName="notes.md" Line="44" Column="36" />
+      <File FileName="movieList/Program.cs" Line="11" Column="1" />
+      <File FileName="movieList/Movie.cs" Line="33" Column="4" />
+      <File FileName="notes.md" Line="53" Column="8" />
+      <File FileName="movieList/Properties/test.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="movieList_Lab10" expanded="True">
             <Node name="movieList" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="test.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.movieList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.movieList PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

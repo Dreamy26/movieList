@@ -38,7 +38,7 @@ having the user select the category by number rather than entering the name.
 ## CSharp SoSharp
 
 ## Resources
-
+[Mirosoft docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
 [cSharpCorner](https://www.c-sharpcorner.com/UploadFile/mahesh/create-a-list-of-objects-in-C-Sharp/)
 - Before you use the List class in your code, you must import the System.Collections.Generic namespace using the following line. 
 - using System.Collections.Generic;
@@ -48,8 +48,8 @@ having the user select the category by number rather than entering the name.
 - how do to make a list in c#
 - how do to make an object in c#
 
-## mentor questions
-1. class
+## Definitions 
+1. Class
 - A class is a user-defined blueprint or prototype from which objects are created
 2. Constructor
 - Constructors enable the programmer to set default values, limit instantiation, and write code that is flexible and easy to read
